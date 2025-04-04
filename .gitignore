@@ -1,0 +1,43 @@
+# Ambiente virtual
+venv/
+ENV/
+env/
+.venv/
+
+# Compilados Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs e caches
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.cache
+*.coverage
+.coverage.*
+.cache/
+.pytest_cache/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.tmp
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Arquivos do Jupyter
+.ipynb_checkpoints/
